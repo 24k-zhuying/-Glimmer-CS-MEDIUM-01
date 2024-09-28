@@ -49,7 +49,7 @@
 ## Part 4 封装大数四则运算
 [代码展示](part4.md)
 
-[结果展示]
+[结果展示](https://github.com/24k-zhuying/-Glimmer-CS-MEDIUM-01/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-09-27%20150111.png)
 
 ## 总结感悟
 
