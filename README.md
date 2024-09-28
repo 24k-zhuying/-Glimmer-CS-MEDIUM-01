@@ -28,7 +28,7 @@
 
 [代码展示](part2step1.md)
 
-[结果展示](Screenshots\ 屏幕截图 2024 - 09 - 21 191651.png)
+[结果展示](Pictures\Screenshots\ 屏幕截图 2024 - 09 - 21 191651.png)
 
 ### Step 2 实现大数加法
 
