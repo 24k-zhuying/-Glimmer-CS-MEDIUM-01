@@ -34,7 +34,7 @@
 
 [代码展示](part2step2.md)
 
-[结果展示]
+[结果展示](https://github.com/24k-zhuying/-Glimmer-CS-MEDIUM-01/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-09-25%20114314.png)
 
 ### Step 3 实现大数加法（处理负数）
 [代码展示](part2step3.md)
