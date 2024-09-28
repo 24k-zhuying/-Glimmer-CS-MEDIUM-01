@@ -28,7 +28,7 @@
 
 [代码展示](part2step1.md)
 
-[结果展示]![alt text](52ec5c749a37749f8037a32082f437a8.png)
+[结果展示]![alt text]([52ec5c749a37749f8037a32082f437a8.png](https://github.com/24k-zhuying/-Glimmer-CS-MEDIUM-01/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-09-21%20191651.png))
 
 ### Step 2 实现大数加法
 
